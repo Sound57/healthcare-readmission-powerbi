@@ -7,7 +7,7 @@
 
 An end-to-end healthcare analytics project analyzing **101,766 diabetic patient admissions** across 130 US hospitals. Built to demonstrate skills across Data Analysis, Business Intelligence, and Predictive Modelling.
 
-> 📊 **[View Live Dashboard on Power BI Service](#)** ← *(paste your link here)*
+> 📊 **[View Live Dashboard on Power BI Service](#)
 
 ---
 
