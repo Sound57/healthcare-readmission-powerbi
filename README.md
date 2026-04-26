@@ -6,8 +6,12 @@
 ![Status](https://img.shields.io/badge/Status-Completed-1D9E75?style=for-the-badge)
 
 An end-to-end healthcare analytics project analyzing **101,766 diabetic patient admissions** across 130 US hospitals. Built to demonstrate skills across Data Analysis, Business Intelligence, and Predictive Modelling.
+<img width="1118" height="630" alt="image" src="https://github.com/user-attachments/assets/23a43e54-53d8-4c61-8b03-6c3ff2bae6bd" />
+<img width="1122" height="632" alt="image" src="https://github.com/user-attachments/assets/5c1fe0a1-1838-4499-94b5-6b0210166392" />
+<img width="1116" height="632" alt="image" src="https://github.com/user-attachments/assets/77896a85-1758-45d8-afdc-f82f6332a02b" />
 
-> 📊 **[View Live Dashboard on Power BI Service](#)
+
+> 📊 **[View Live Dashboard on Power BI Service](#)**
 
 ---
 
